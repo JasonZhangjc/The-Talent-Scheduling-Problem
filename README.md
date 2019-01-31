@@ -1,4 +1,4 @@
-# Find all forcible paths between the src and the dst
+# Minizinc models of The Talent Scheduling Problem
 This is a demo of an Minizinc model for The Talent Scheduling Problem in CSPLib (http://www.csplib.org/Problems/prob039/). This model can be used when the scenes that each actor attends are not in a binary format.
 
 Required tools:
@@ -15,7 +15,7 @@ Which model to use:
 
 Take the rehearsal_Smith scheduling problem (a very similar problem to The Talent Scheduling Problem) as an example:</br>
 
-Scene---	1	2	3	4	5	6	7	8	9  Cost</br>
+Scene----	1	2	3	4	5	6	7	8	9  Cost</br>
 Actor 1--	1	1	0	1	0	1	1	0	1  1</br>
 Actor 2--	1	1	0	1	1	1	0	1	0  1</br>
 Actor 3--	1	1	0	0	0	0	1	1	0  1</br>
