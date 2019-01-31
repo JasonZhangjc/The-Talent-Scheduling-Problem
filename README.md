@@ -16,11 +16,11 @@ Which model to use:
 Take the rehearsal_Smith scheduling problem (a very similar problem to The Talent Scheduling Problem) as an example:</br>
 
 Scene---	1	2	3	4	5	6	7	8	9  Cost</br>
-Actor 1-	1	1	0	1	0	1	1	0	1  1</br>
-Actor 2-	1	1	0	1	1	1	0	1	0  1</br>
-Actor 3-	1	1	0	0	0	0	1	1	0  1</br>
-Actor 4-	1	0	0	0	1	1	0	0	1  1</br>
-Actor 5-	0	0	1	0	1	1	1	1	0  1</br>
+Actor 1--	1	1	0	1	0	1	1	0	1  1</br>
+Actor 2--	1	1	0	1	1	1	0	1	0  1</br>
+Actor 3--	1	1	0	0	0	0	1	1	0  1</br>
+Actor 4--	1	0	0	0	1	1	0	0	1  1</br>
+Actor 5--	0	0	1	0	1	1	1	1	0  1</br>
 Duration	2	4	1	3	3	2	5	7	6  1</br>
 
 This example is given in a binary format, we need to transform it into an integer format as follows:</br>
@@ -44,6 +44,6 @@ total_cost = 17;</br>
 ----------</br>
 ==========</br>
 
-The total_cost 17 is the same as the optimal cost on http://www.csplib.org/Problems/prob039/</br>
+The total_cost 17 is the same as the optimal cost on http://www.csplib.org/Problems/prob039/.</br>
 
 
