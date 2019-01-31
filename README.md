@@ -1,4 +1,4 @@
-# Minizinc models of The Talent Scheduling Problem
+# Minizinc Models of The Talent Scheduling Problem
 This is a demo of an Minizinc model for The Talent Scheduling Problem in CSPLib (http://www.csplib.org/Problems/prob039/). This model can be used when the scenes that each actor attends are not in a binary format.
 
 Required tools:
